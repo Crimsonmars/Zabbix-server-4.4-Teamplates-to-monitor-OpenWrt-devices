@@ -1,7 +1,7 @@
 # Zabbix-server-4.4-Teamplates-to-monitor-OpenWrt-devices
 
-This Are the files I have modifyed from https://pastebin.com/nQdZM89w in order to load the in to regular Zabbix server 4.4
-The above all in one I have not done, as I am unsing this as an addon to standard Linux template with the following openwrt packadges:
+This are the files I have modifyed from https://pastebin.com/nQdZM89w in order to load the in to regular Zabbix server 4.4
+The above all in one I haven´t done, as I am unsing this as an addon to standard Linux template with the following openwrt packadges:
 
 zabbix-extra-wifi
 zabbix-extra-network
